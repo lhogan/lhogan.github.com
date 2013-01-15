@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Celebrities | Random Ramblings]]></title>
+  <link href="http://lhogan.github.com/blog/categories/celebrities/atom.xml" rel="self"/>
+  <link href="http://lhogan.github.com/"/>
+  <updated>2013-01-14T23:02:41-03:30</updated>
+  <id>http://lhogan.github.com/</id>
+  <author>
+    <name><![CDATA[Lori Hogan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Delayed April's Fool Joke?]]></title>
+    <link href="http://lhogan.github.com/blog/2006/04/04/a-delayed-aprils-fool-joke/"/>
+    <updated>2006-04-04T07:03:00-02:30</updated>
+    <id>http://lhogan.github.com/blog/2006/04/04/a-delayed-aprils-fool-joke</id>
+    <content type="html"><![CDATA[<p>"Mother Teresa" and "Paris Hilton" don't really belong in the same sentence, do they?  So how is this...</p>
+
+<p><a href="http://people.aol.com/people/articles/0,19736,1179866,00.html">Paris to be offered Mother Teresa role</a></p>
+]]></content>
+  </entry>
+  
+</feed>

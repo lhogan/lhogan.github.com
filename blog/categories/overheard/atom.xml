@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Overheard | Random Ramblings]]></title>
+  <link href="http://lhogan.github.com/blog/categories/overheard/atom.xml" rel="self"/>
+  <link href="http://lhogan.github.com/"/>
+  <updated>2013-01-14T23:02:41-03:30</updated>
+  <id>http://lhogan.github.com/</id>
+  <author>
+    <name><![CDATA[Lori Hogan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[No, I left them on the Internet!!]]></title>
+    <link href="http://lhogan.github.com/blog/2006/04/07/no-i-left-them-on-the-internet/"/>
+    <updated>2006-04-07T06:51:00-02:30</updated>
+    <id>http://lhogan.github.com/blog/2006/04/07/no-i-left-them-on-the-internet</id>
+    <content type="html"><![CDATA[<p>Overheard on the bus this morning...</p>
+
+<p>Guy: "I found some great help sites last night while searching the web."
+Girl: "Really?  I could use those today.  Do you have them there on you?"</p>
+
+<p>(It was funnier hearing it earlier)</p>
+]]></content>
+  </entry>
+  
+</feed>

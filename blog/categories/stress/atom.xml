@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Stress | Random Ramblings]]></title>
+  <link href="http://lhogan.github.com/blog/categories/stress/atom.xml" rel="self"/>
+  <link href="http://lhogan.github.com/"/>
+  <updated>2013-01-14T23:02:41-03:30</updated>
+  <id>http://lhogan.github.com/</id>
+  <author>
+    <name><![CDATA[Lori Hogan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Warning:  It's gonna get loud for a second]]></title>
+    <link href="http://lhogan.github.com/blog/2006/10/25/warning-its-gonna-get-loud/"/>
+    <updated>2006-10-25T06:16:40-02:30</updated>
+    <id>http://lhogan.github.com/blog/2006/10/25/warning-its-gonna-get-loud</id>
+    <content type="html"><![CDATA[<p>AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!</p>
+
+<p>Thanks.  That felt good.  Needed to do that.  A little stressed right now.  Still have the cold/flu/plague/whatever... am actually gonna go see a doctor <em>gasp</em>.  Please resume your normal activities.</p>
+]]></content>
+  </entry>
+  
+</feed>
