@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Lappy | Random Ramblings]]></title>
+  <link href="http://lhogan.github.com/categories/lappy/atom.xml" rel="self"/>
+  <link href="http://lhogan.github.com/"/>
+  <updated>2013-01-14T23:18:37-03:30</updated>
+  <id>http://lhogan.github.com/</id>
+  <author>
+    <name><![CDATA[Lori Hogan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lappy Saga]]></title>
+    <link href="http://lhogan.github.com/2006/09/04/lappy-saga/"/>
+    <updated>2006-09-04T20:04:00-02:30</updated>
+    <id>http://lhogan.github.com/2006/09/04/lappy-saga</id>
+    <content type="html"><![CDATA[<p>So, Lappy is happy.  She's gotten her new hard drive.  It's all mirrored from the old one, and now it's like no bad can happen.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lappy Lives... For Now]]></title>
+    <link href="http://lhogan.github.com/2006/08/29/lappy-lives-for-now/"/>
+    <updated>2006-08-29T18:23:00-02:30</updated>
+    <id>http://lhogan.github.com/2006/08/29/lappy-lives-for-now</id>
+    <content type="html"><![CDATA[<p>Lappy Update: She's okay.  She's got some bad sectors.  She needs a new HD, and may get one soon.  Thanks to Randy's MacBook for its concern!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quick Note]]></title>
+    <link href="http://lhogan.github.com/2006/08/28/quick-note/"/>
+    <updated>2006-08-28T06:57:00-02:30</updated>
+    <id>http://lhogan.github.com/2006/08/28/quick-note</id>
+    <content type="html"><![CDATA[<p>Lappy is seriously ill. :(  Unmountable boot volume.  May need to go in for repairs... gotta take a closer look later.  If she's gone for a while, I may be incommunicado, as I hate blogging from work.</p>
+]]></content>
+  </entry>
+  
+</feed>
