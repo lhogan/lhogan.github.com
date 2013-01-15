@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Random Ramblings]]></title>
+  <link href="http://lhogan.github.com/atom.xml" rel="self"/>
+  <link href="http://lhogan.github.com/"/>
+  <updated>2013-01-14T22:48:17-03:30</updated>
+  <id>http://lhogan.github.com/</id>
+  <author>
+    <name><![CDATA[Lori Hogan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
