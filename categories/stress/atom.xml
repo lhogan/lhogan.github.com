@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Stress | Random Ramblings]]></title>
-  <link href="http://lhogan.github.com/categories/stress/atom.xml" rel="self"/>
-  <link href="http://lhogan.github.com/"/>
-  <updated>2013-01-14T23:25:20-03:30</updated>
-  <id>http://lhogan.github.com/</id>
+  <link href="http://www.lorihogan.com/categories/stress/atom.xml" rel="self"/>
+  <link href="http://www.lorihogan.com/"/>
+  <updated>2013-01-16T22:46:17-03:30</updated>
+  <id>http://www.lorihogan.com/</id>
   <author>
     <name><![CDATA[Lori Hogan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Warning:  It's gonna get loud for a second]]></title>
-    <link href="http://lhogan.github.com/2006/10/25/warning-its-gonna-get-loud/"/>
+    <link href="http://www.lorihogan.com/2006/10/25/warning-its-gonna-get-loud/"/>
     <updated>2006-10-25T06:16:40-02:30</updated>
-    <id>http://lhogan.github.com/2006/10/25/warning-its-gonna-get-loud</id>
+    <id>http://www.lorihogan.com/2006/10/25/warning-its-gonna-get-loud</id>
     <content type="html"><![CDATA[<p>AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!</p>
 
 <p>Thanks.  That felt good.  Needed to do that.  A little stressed right now.  Still have the cold/flu/plague/whatever... am actually gonna go see a doctor <em>gasp</em>.  Please resume your normal activities.</p>

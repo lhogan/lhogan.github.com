@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://lhogan.github.com/sitemap.xml 
+Sitemap: http://www.lorihogan.com/sitemap.xml 

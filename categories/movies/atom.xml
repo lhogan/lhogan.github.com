@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Movies | Random Ramblings]]></title>
-  <link href="http://lhogan.github.com/categories/movies/atom.xml" rel="self"/>
-  <link href="http://lhogan.github.com/"/>
-  <updated>2013-01-14T23:25:20-03:30</updated>
-  <id>http://lhogan.github.com/</id>
+  <link href="http://www.lorihogan.com/categories/movies/atom.xml" rel="self"/>
+  <link href="http://www.lorihogan.com/"/>
+  <updated>2013-01-16T22:46:17-03:30</updated>
+  <id>http://www.lorihogan.com/</id>
   <author>
     <name><![CDATA[Lori Hogan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Last Chance?]]></title>
-    <link href="http://lhogan.github.com/2006/09/27/the-last-chance/"/>
+    <link href="http://www.lorihogan.com/2006/09/27/the-last-chance/"/>
     <updated>2006-09-27T19:27:00-02:30</updated>
-    <id>http://lhogan.github.com/2006/09/27/the-last-chance</id>
+    <id>http://www.lorihogan.com/2006/09/27/the-last-chance</id>
     <content type="html"><![CDATA[<p>Okay, must get this out of the way before starting the post.</p>
 
 <p>Zach Braff is dreamy.</p>
@@ -34,9 +34,9 @@
   
   <entry>
     <title type="html"><![CDATA[Chocolate and movies]]></title>
-    <link href="http://lhogan.github.com/2006/09/20/chocolate-and-movies/"/>
+    <link href="http://www.lorihogan.com/2006/09/20/chocolate-and-movies/"/>
     <updated>2006-09-20T20:51:00-02:30</updated>
-    <id>http://lhogan.github.com/2006/09/20/chocolate-and-movies</id>
+    <id>http://www.lorihogan.com/2006/09/20/chocolate-and-movies</id>
     <content type="html"><![CDATA[<p>This one's for <a href="http://www.applpolisher.blogspot.com">Divinity</a>, who hooked me on the <a href="http://applpolisher.blogspot.com/2005/11/not-my-forte.html">Virgin Digital-sponsored band photo</a>.  It's an "M&M; masterpiece" that contains references to 50 "dark movies" you must find.</p>
 
 <p>If anyone is interested, we can start a list of solutions...</p>

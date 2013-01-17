@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Literature | Random Ramblings]]></title>
-  <link href="http://lhogan.github.com/categories/literature/atom.xml" rel="self"/>
-  <link href="http://lhogan.github.com/"/>
-  <updated>2013-01-14T23:25:20-03:30</updated>
-  <id>http://lhogan.github.com/</id>
+  <link href="http://www.lorihogan.com/categories/literature/atom.xml" rel="self"/>
+  <link href="http://www.lorihogan.com/"/>
+  <updated>2013-01-16T22:46:17-03:30</updated>
+  <id>http://www.lorihogan.com/</id>
   <author>
     <name><![CDATA[Lori Hogan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[For Woody]]></title>
-    <link href="http://lhogan.github.com/2006/10/03/for-woody/"/>
+    <link href="http://www.lorihogan.com/2006/10/03/for-woody/"/>
     <updated>2006-10-03T10:11:00-02:30</updated>
-    <id>http://lhogan.github.com/2006/10/03/for-woody</id>
+    <id>http://www.lorihogan.com/2006/10/03/for-woody</id>
     <content type="html"><![CDATA[<p>[</p>
 
 <p><img src="http://www.lorihogan.com/uploaded_images/woody-735377.jpg" alt="" /></p>
@@ -54,9 +54,9 @@ Sorry about the accident, No hard feelings, the End</p>
   
   <entry>
     <title type="html"><![CDATA[Random Quotations...]]></title>
-    <link href="http://lhogan.github.com/2006/08/17/random-quotations/"/>
+    <link href="http://www.lorihogan.com/2006/08/17/random-quotations/"/>
     <updated>2006-08-17T07:38:00-02:30</updated>
-    <id>http://lhogan.github.com/2006/08/17/random-quotations</id>
+    <id>http://www.lorihogan.com/2006/08/17/random-quotations</id>
     <content type="html"><![CDATA[<p>I took the idea from <a href="http://applpolisher.blogspot.com/2006/08/random-hitching-post.html">Div</a>, though I must thank her for not tagging me or anyone in particular.</p>
 
 <p>So this game goes like this:

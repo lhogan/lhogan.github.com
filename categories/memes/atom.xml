@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Memes | Random Ramblings]]></title>
-  <link href="http://lhogan.github.com/categories/memes/atom.xml" rel="self"/>
-  <link href="http://lhogan.github.com/"/>
-  <updated>2013-01-14T23:25:20-03:30</updated>
-  <id>http://lhogan.github.com/</id>
+  <link href="http://www.lorihogan.com/categories/memes/atom.xml" rel="self"/>
+  <link href="http://www.lorihogan.com/"/>
+  <updated>2013-01-16T22:46:17-03:30</updated>
+  <id>http://www.lorihogan.com/</id>
   <author>
     <name><![CDATA[Lori Hogan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hey, that sounds about right...]]></title>
-    <link href="http://lhogan.github.com/2007/03/11/hey-that-sounds-about-right/"/>
+    <link href="http://www.lorihogan.com/2007/03/11/hey-that-sounds-about-right/"/>
     <updated>2007-03-11T16:39:42-02:30</updated>
-    <id>http://lhogan.github.com/2007/03/11/hey-that-sounds-about-right</id>
+    <id>http://www.lorihogan.com/2007/03/11/hey-that-sounds-about-right</id>
     <content type="html"><![CDATA[<p><strong>You Are 28 Years Old</strong></p>
 
 <p><img src="http://images.blogthings.com/whatagequiz/cake.jpg" alt="" /> Under 12: You are a kid at heart. You still have an optimistic life view - and you look at the world with awe.13-19: You are a teenager at heart. You question authority and are still trying to find your place in this world.</p>
@@ -34,9 +34,9 @@
   
   <entry>
     <title type="html"><![CDATA[Six Degrees of Blog Separation]]></title>
-    <link href="http://lhogan.github.com/2006/09/03/six-degrees-of-blog-separation/"/>
+    <link href="http://www.lorihogan.com/2006/09/03/six-degrees-of-blog-separation/"/>
     <updated>2006-09-03T11:16:00-02:30</updated>
-    <id>http://lhogan.github.com/2006/09/03/six-degrees-of-blog-separation</id>
+    <id>http://www.lorihogan.com/2006/09/03/six-degrees-of-blog-separation</id>
     <content type="html"><![CDATA[<p>We're all aware by now that <a href="http://en.wikipedia.org/wiki/Six_degrees_of_separation">everyone on earth is connected to anyone else to by five intermediary people</a>.  So, if you've got some time on your hands, try this...</p>
 
 <p>Start with a link on your blog that leads to the website/blog of someone YOU KNOW... no celebs unless you could stop them at the supermarket and have a real chat with them.  That's link #1.  From their page, select a link of someone (a) you do not already have linked on your page, preferably (b) that you don't know and if possible (c) is someone THEY know (I know, I'm making this far too complicated).  That's link #2.  And so it continues, until you get to link #6.</p>
@@ -55,9 +55,9 @@ Link #6 - Heather to <a href="http://www.savemouse.com/wordpress/">Mouse</a>, a 
   
   <entry>
     <title type="html"><![CDATA[My Nerd Score....]]></title>
-    <link href="http://lhogan.github.com/2006/08/28/my-nerd-score/"/>
+    <link href="http://www.lorihogan.com/2006/08/28/my-nerd-score/"/>
     <updated>2006-08-28T07:09:00-02:30</updated>
-    <id>http://lhogan.github.com/2006/08/28/my-nerd-score</id>
+    <id>http://www.lorihogan.com/2006/08/28/my-nerd-score</id>
     <content type="html"><![CDATA[<p><a href="http://www.nerdtests.com/ft_nq.php?im"><img src="http://www.nerdtests.com/images/ft/nq.php?val=1777" alt="I am nerdier than 92% of all people. Are you nerdier? Click here to find out!" /></a></p>
 
 <p>Lord help you if you're nerdier.</p>
@@ -66,9 +66,9 @@ Link #6 - Heather to <a href="http://www.savemouse.com/wordpress/">Mouse</a>, a 
   
   <entry>
     <title type="html"><![CDATA[Random Quotations...]]></title>
-    <link href="http://lhogan.github.com/2006/08/17/random-quotations/"/>
+    <link href="http://www.lorihogan.com/2006/08/17/random-quotations/"/>
     <updated>2006-08-17T07:38:00-02:30</updated>
-    <id>http://lhogan.github.com/2006/08/17/random-quotations</id>
+    <id>http://www.lorihogan.com/2006/08/17/random-quotations</id>
     <content type="html"><![CDATA[<p>I took the idea from <a href="http://applpolisher.blogspot.com/2006/08/random-hitching-post.html">Div</a>, though I must thank her for not tagging me or anyone in particular.</p>
 
 <p>So this game goes like this:
@@ -100,9 +100,9 @@ Link #6 - Heather to <a href="http://www.savemouse.com/wordpress/">Mouse</a>, a 
   
   <entry>
     <title type="html"><![CDATA[Does this mean I'm out of the beagle pack?]]></title>
-    <link href="http://lhogan.github.com/2006/06/30/does-this-mean-im-out-of-the-beagle-pack/"/>
+    <link href="http://www.lorihogan.com/2006/06/30/does-this-mean-im-out-of-the-beagle-pack/"/>
     <updated>2006-06-30T08:18:00-02:30</updated>
-    <id>http://lhogan.github.com/2006/06/30/does-this-mean-im-out-of-the-beagle-pack</id>
+    <id>http://www.lorihogan.com/2006/06/30/does-this-mean-im-out-of-the-beagle-pack</id>
     <content type="html"><![CDATA[<p>You Are A Labrador Retriever</p>
 
 <p><img src="http://www.ideafetch.ca/en/FunStuff/BreedImages/Dogs/d1.gif" alt="A Labrador Retriever" /></p>
